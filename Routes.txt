@@ -1,0 +1,9 @@
+﻿Route 1,Asghar Ali Shah Stadium,KDA Chowrangi,Dolmen Mall (Haidery),Five Star CHowrangi,Nagan Chowrangi,FAST NU
+Route 2,Jail Road,Mashriq Center,Bahria University,National Stadium,Gulshan e Jamal,FAST NU
+Route 3,Khudad Colony,Khalid Bin Walid Road ,Sharfabad ,Bahadurabad, Agha Khan Chowk,FAST NU
+Route 4,Kayaban.e.Rahat,Khayaban.e.Itihad,Exect Stop,Hino Bridge,Singer Chowrangi,FAST NU
+Route 5,Regent Plaza,Lal Kothi,Zubaida Hospital,Paf Base Faisal,Drigh Road,FAST NU
+Route 6,Perfume Chowke,Hill Top,Johar More,Colony Gate,Malir Halt,FAST NU
+Route 7,CMH,Cantt Bazaar,Phase 2,Phase 1,Askari 5,FAST NU
+Route 8,Dolmen Mall tariq road,Bahadurabad,MAH society,Karsaz,Malir kalaboard,FAST NU
+Route 9,Safoora,Cantt CP6,Tank chowk,Model  ,Security press,Fast NU
